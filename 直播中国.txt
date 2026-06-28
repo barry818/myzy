@@ -1,4 +1,4 @@
-CCTV纪录片录播,#genre#
+航拍中国,#genre#
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
@@ -37,7 +37,7 @@ CCTV纪录片录播,#genre#
 飞碟之谜 01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 飞碟之谜 02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 
-💽纪录片直播,#genre#
+纪录片直播,#genre#
 荒野求生,http://live.metshop.top/douyu/9252708
 荒野避难所,http://live.metshop.top/douyu/10234334
 维塔利在野外,http://live.metshop.top/douyu/9804068
@@ -59,7 +59,6 @@ CCTV纪录片录播,#genre#
 景区直播,#genre#
 直播中国精编,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-
 东莞中心广场,https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8
 深圳福田中央商务区,https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
 珠海海滨,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
