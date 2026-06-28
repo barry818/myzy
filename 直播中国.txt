@@ -1,7 +1,6 @@
 ✈️航拍中国,#genre#
-航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-中国村庄,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
-自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
+航拍中国内蒙高清,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+航拍中国内蒙古,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c76529c9c434b38a9047daa000a7b90/1200.m3u8
 航拍中国新疆,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ebb32c9a2474758b86d8a98f433c3b3/1200.m3u8
 航拍中国黑龙江,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/50eb00bbc2e445a18082378a302e93a7/1200.m3u8
 航拍中国陕西,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/947280ca50144f0c94763ea3d1ec51cc/1200.m3u8
@@ -10,7 +9,6 @@
 航拍中国浙江,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c40caee6399e45daa7676b9a5e4116d5/1200.m3u8
 航拍中国甘肃,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4b79a3079e6f41fe98735763fa200101/1200.m3u8
 航拍中国广东,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/32074e14c72f449f9c77e247cc886ecc/1200.m3u8
-航拍中国内蒙古,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/4c76529c9c434b38a9047daa000a7b90/1200.m3u8
 航拍中国福建,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/be153a817c2e4b1181183d7fd8879e92/1200.m3u8
 航拍中国江苏,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64c2db4bb8fc4e0d9b41506556a718cd/1200.m3u8
 航拍中国云南,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/dc534f3d3730442a8b50334424ec2c78/1200.m3u8
@@ -34,8 +32,9 @@
 航拍中国湖南,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/main.m3u8
 航拍中国河北,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/2f1976058d334d3b9e432de9e0ddc8e0/main.m3u8
 航拍中国宁夏,https://newcntv.qcloudcdn.com/asp/hls/main/0303000a/3/default/163c971a8ec44f0ba5dd1dc3ddffb8d7/main.m3u8
-飞碟之谜 01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
-飞碟之谜 02,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
+自然传奇-飞碟之谜1,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
+自然传奇-飞碟之谜1,https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
+自然传奇-鳄鱼大观,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 
 💽纪录片,#genre#
 荒野求生,http://live.metshop.top/douyu/9252708
